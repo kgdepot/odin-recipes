@@ -1,16 +1,20 @@
-* {
+
+*:not(img) {
     background-color: black;
     color: white;
     font-family: monospace, sans-serif;
+    width: 640px;
+    position: relative;
+    left: auto;
+} 
+.img {
     text-align: center;
-
-}
-/* css for index.html */
-.recipe {
-    font-weight: bold;
-}
-#head-one {
-    font-family: fantasy, 'Courier New', Courier;
 }
 
-/* css for recipe pages */
+h1, .recipe-link {
+    font-family: monospace, 'Courier New', Courier;
+    text-align: center;
+}
+
+
+

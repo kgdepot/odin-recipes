@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: monospace, sans-serif;
+    text-align: center;
+
+}
+/* css for index.html */
+.recipe {
+    font-weight: bold;
+}
+#head-one {
+    font-family: fantasy, 'Courier New', Courier;
+}
+
+/* css for recipe pages */
